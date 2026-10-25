@@ -1,0 +1,16 @@
+{
+  "name": "instagram-dhikr-bot",
+  "version": "1.0.0",
+  "description": "بوت إنستغرام يرسل أذكارًا من القرآن والسنة للمتابعين",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=18.x"
+  }
+}
