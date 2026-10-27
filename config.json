@@ -1,0 +1,42 @@
+{
+  "session_id": "22327574651%3AppkvRWjLz9ico4%3A15%3AAYnKbjmnb716cCBtjYbpA0nK-72Y9HvGxx7oXOpshQ",
+  "reply_text": "وعليكم السلام ورحمة الله وبركاته 🌹",
+  "greeting_keywords": [
+    "سلام عليكم",
+    "السلام عليكم",
+    "اسلام عليكم",
+    "salam",
+    "assalam",
+    "hi",
+    "hello"
+  ],
+  "check_interval": 10,
+  "credit_handle": "j_.8._",
+  "show_menu_on_greeting": true,
+  "daily_schedule": [
+    { "pool": "azkar_sabah", "hour_local": 6, "enabled": true },
+    { "pool": "names", "hour_local": 8, "enabled": true },
+    { "pool": "hadith", "hour_local": 11, "enabled": true },
+    { "pool": "azkar_masaa", "hour_local": 19, "enabled": true }
+  ],
+  "broadcast_adhkar": {
+    "enabled": true,
+    "mode": "followers",
+    "start_hour": 7,
+    "end_hour": 23,
+    "delay_between": 600,
+    "user_gap_min": 10,
+    "batch_size": 10,
+    "max_per_day": 200,
+    "include_verse": true,
+    "prayer_to_followers": true,
+    "prayer_interval_min": 150
+  },
+  "prayer": {
+    "enabled": true,
+    "city": "Chlef",
+    "country": "Algeria",
+    "method": 3,
+    "reminder_minutes": 10
+  }
+}
