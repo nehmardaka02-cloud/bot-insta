@@ -1,0 +1,10 @@
+{
+  "session_id": "22327574651%3AppkvRWjLz9ico4%3A15%3AAYnKbjmnb716cCBtjYbpA0nK-72Y9HvGxx7oXOpshQ",
+  "check_interval": 15,
+  "credit_handle": "j_.8._",
+  "ai": {
+    "text_model": "openai-fast",
+    "gemini_key": ""
+  },
+  "max_history": 12
+}
